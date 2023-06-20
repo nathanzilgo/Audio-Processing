@@ -1,1 +1,1 @@
-Pytorch and TensorFlow por audio processing
+Pytorch and TensorFlow for audio processing
