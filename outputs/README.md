@@ -8,3 +8,7 @@ https://github.com/nathanzilgo/Audio-Processing/assets/96853561/1ce292f1-c646-43
 
 https://github.com/nathanzilgo/Audio-Processing/assets/96853561/5c8f9dbc-6586-4755-918e-b4338250fd70
 
+**Output no.3:**
+
+https://github.com/nathanzilgo/Audio-Processing/assets/96853561/3e60f11e-c197-4dbb-9a69-12c3c37fba5c
+
